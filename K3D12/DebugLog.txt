@@ -1,0 +1,100 @@
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\system\d3d12system.cpp, LINE : 916] { Create K3DSystem }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\system\d3d12system.cpp, LINE : 954] { ÉEÉCÉìÉhÉEÇ™ê≥èÌÇ…èâä˙âªÇ≥ÇÍÇ‹ÇµÇΩ }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\commandlistlibrary.cpp, LINE : 28] { CommandListÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : CommandList }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\commandlistlibrary.cpp, LINE : 28] { CommandListÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : ComputeList }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\commandlistlibrary.cpp, LINE : 28] { CommandListÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : CopyList }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 74] { RootSignatureÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : SpritePSO }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 35] { PSOÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : SpritePSO }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 74] { RootSignatureÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : MMDModelOpacity }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 35] { PSOÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : MMDModelOpacity }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 74] { RootSignatureÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : Primitive }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 35] { PSOÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : Primitive }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 74] { RootSignatureÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : FxAA }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 35] { PSOÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : FxAA }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 74] { RootSignatureÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : lightingPassPSORootSignature }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 58] { PSOÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : lightingPassPSO }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\system\d3d12system.cpp, LINE : 957] { D3D12Ç™ê≥èÌÇ…èâä˙âªÇ≥ÇÍÇ‹ÇµÇΩ }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\system\d3d12system.cpp, LINE : 959] { ÉRÉìÉgÉçÅ[ÉâÇÃç≈ëÂê⁄ë±êîÇÇSÇ≈èâä˙âªÇµÇ‹ÇµÇΩ }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : CameraMatrixBuffer is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\audio\audiomanager.cpp, LINE : 26] { XAudio2ÇÃçÏê¨Ç…ê¨å˜ÇµÇ‹ÇµÇΩ }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\audio\audiomanager.cpp, LINE : 31] { MasteringVoiceÇÃçÏê¨Ç…ê¨å˜ÇµÇ‹ÇµÇΩ }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 91] { RootSignatureÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : GPUParticleCSRootSignature }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 91] { RootSignatureÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : GPUParticleDrawRootSignature }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 58] { PSOÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : ParticleSpawnPSO }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 58] { PSOÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : ParticleUpdatePSO }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 35] { PSOÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : DrawPSO }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 91] { RootSignatureÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : ParticleInitCSRootSignature }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\shadercomponent\shaderobjectlibrary.cpp, LINE : 58] { PSOÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : ParticleInitPSO }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\commandlistlibrary.cpp, LINE : 28] { CommandListÇ™ê≥èÌÇ…çÏê¨ÅEìoò^Ç≥ÇÍÇ‹ÇµÇΩ : ResourceUpdaterList }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\system\d3d12system.cpp, LINE : 874] { Terminate Window }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\pipelinestate\pipelinestateobject.cpp, LINE : 94] { PipelineState : lightingPassPSO is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\pipelinestate\pipelinestateobject.cpp, LINE : 94] { PipelineState : SpritePSO is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\pipelinestate\pipelinestateobject.cpp, LINE : 94] { PipelineState : Primitive is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\pipelinestate\pipelinestateobject.cpp, LINE : 94] { PipelineState : ParticleUpdatePSO is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\pipelinestate\pipelinestateobject.cpp, LINE : 94] { PipelineState : ParticleSpawnPSO is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\pipelinestate\pipelinestateobject.cpp, LINE : 94] { PipelineState : ParticleInitPSO is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\pipelinestate\pipelinestateobject.cpp, LINE : 94] { PipelineState : MMDModelOpacity is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\pipelinestate\pipelinestateobject.cpp, LINE : 94] { PipelineState : FxAA is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\pipelinestate\pipelinestateobject.cpp, LINE : 94] { PipelineState : UnNamed PipelineState is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\signature\rootsignature.cpp, LINE : 71] { RootSignature : lightingPassPSORootSignature is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\signature\rootsignature.cpp, LINE : 71] { RootSignature : SpritePSO is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\signature\rootsignature.cpp, LINE : 71] { RootSignature : Primitive is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\signature\rootsignature.cpp, LINE : 71] { RootSignature : ParticleInitCSRootSignature is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\signature\rootsignature.cpp, LINE : 71] { RootSignature : MMDModelOpacity is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\signature\rootsignature.cpp, LINE : 71] { RootSignature : GPUParticleDrawRootSignature is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\signature\rootsignature.cpp, LINE : 71] { RootSignature : GPUParticleCSRootSignature is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\signature\rootsignature.cpp, LINE : 71] { RootSignature : FxAA is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\graphicscommandlist.cpp, LINE : 177] { CommandList : CommandListList is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\graphicscommandlist.cpp, LINE : 178] { CommandAllocator : CommandListAllocator is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\graphicscommandlist.cpp, LINE : 177] { CommandList : ComputeListList is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\graphicscommandlist.cpp, LINE : 178] { CommandAllocator : ComputeListAllocator is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\graphicscommandlist.cpp, LINE : 177] { CommandList : CopyListList is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\graphicscommandlist.cpp, LINE : 178] { CommandAllocator : CopyListAllocator is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\graphicscommandlist.cpp, LINE : 177] { CommandList : ResourceUpdaterListList is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\commandcontext\graphicscommandlist.cpp, LINE : 178] { CommandAllocator : ResourceUpdaterListAllocator is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\factory\factory.cpp, LINE : 47] { Factory is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : Nulltexture  is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : GeometrySRV is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : GeometryRTV is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : GeometryUAV is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : GBufferCameraInfo is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : RESULT_TEXTURE2 is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : RESULT_TEXTURE is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : DIFFUSE_MAP_TEXTURE is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : SPECULER_MAP_TEXTURE is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : ALBEDO_TEXTURE is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : SPECULAR_TEXTURE is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : NORMAL_TEXTURE is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : RenderTargetResource  is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : RenderTargetResource  is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : RendertargetsHeap  is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : DepthStencilReadOnlyTextureHeap is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : DepthStencilDSVHeap is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : CameraDepthStencill is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : CameraMatrixBuffer is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\system\d3d12system.cpp, LINE : 902] { Terminate D3D12 }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\audio\audiomanager.cpp, LINE : 116] { MasteringVoiceÇçÌèúÇµÇ‹ÇµÇΩ }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\audio\audiomanager.cpp, LINE : 121] { XAudio2ÇçÌèúÇµÇ‹ÇµÇΩ }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\system\d3d12system.cpp, LINE : 905] { Terminate XAudio2 }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\system\d3d12system.cpp, LINE : 907] { COMÇÃèIóπ }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : GBuffferVertex is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\system\d3d12system.cpp, LINE : 926] { Delete K3DSystem }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : UnorderedAccessValue_Heap is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : UnorderedAccessValue_Heap is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : UnorderedAccessValue_Heap is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : UnorderedAccessValue_Heap is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : UnorderedAccessValue_Heap is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : UnorderedAccessValue_Heap is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : UnNamed Heap  is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : UnNamed Heap  is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\descriptorheap\descriptorheap.cpp, LINE : 130] { DescriptorHeap : UnNamed Heap  is Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\signature\commandsignature.cpp, LINE : 50] { CommandSignature : UnNamedCommandSignature is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : UnNamedResource  is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : UnNamedResource  is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : UnNamedResource  is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : UAVResource is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : UAVResource is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : UAVResource is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : UAVResource is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : UAVResource is  Reset }
+[ FILE : d:\users\onbashira\desktop\projects\directx12\k3d12\k3d12\engine\resource\resource.cpp, LINE : 114] { Resource : UAVResource is  Reset }
